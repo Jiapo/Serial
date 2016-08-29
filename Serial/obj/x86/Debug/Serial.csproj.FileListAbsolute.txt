@@ -1,0 +1,10 @@
+E:\AProgramme\C#\project\Serial\Serial\bin\Debug\Serial.exe
+E:\AProgramme\C#\project\Serial\Serial\bin\Debug\Serial.pdb
+E:\AProgramme\C#\project\Serial\Serial\obj\x86\Debug\Serial.Form1.resources
+E:\AProgramme\C#\project\Serial\Serial\obj\x86\Debug\Serial.Properties.Resources.resources
+E:\AProgramme\C#\project\Serial\Serial\obj\x86\Debug\Serial.csproj.GenerateResource.Cache
+E:\AProgramme\C#\project\Serial\Serial\obj\x86\Debug\Serial.exe
+E:\AProgramme\C#\project\Serial\Serial\obj\x86\Debug\Serial.pdb
+E:\AProgramme\C#\project\Serial\Serial\obj\x86\Debug\Serial.csprojResolveAssemblyReference.cache
+E:\Projects\Project\Serial\Serial\obj\x86\Debug\Serial.exe
+E:\Projects\Project\Serial\Serial\obj\x86\Debug\Serial.pdb
